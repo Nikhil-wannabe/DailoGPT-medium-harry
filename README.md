@@ -1,6 +1,6 @@
 ---
 tags:
-  -conversational
- ---
- 
-#Harry Potter DailoGPT model
+- conversational
+---
+
+# Harry Potter DialoGPT Model
